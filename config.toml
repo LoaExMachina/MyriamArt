@@ -12,7 +12,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "violet"
   description = "Paintings by Myriam Pitte"
-  copyright = "&copy;2016 Your name or company"
+  #copyright = "&copy;2016 Your name or company"
   sidebarAbout = [
   "I am an artist from Haïti, currently based in Massachussets. I specialize in abstract paintings. This website is still under constructions, more paintings will be uploaded and features may be added, so if you like what you see, you may want to bookmark this site and check again later!"]
  # Contact page
