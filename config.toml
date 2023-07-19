@@ -1,5 +1,5 @@
 baseurl = "https://myriampitte.art/"
-title = "Creative portfolio"
+title = "Myriam's Art Site"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -14,7 +14,7 @@ googleAnalytics = ""
   description = "Paintings by Myriam Pitte"
   #copyright = "&copy;2016 Your name or company"
   sidebarAbout = [
-  "I am an artist from Haïti, currently based in Massachussets. I specialize in abstract paintings. This website is still under constructions, more paintings will be uploaded and features may be added, so if you like what you see, you may want to bookmark this site and check again later!"]
+  "I am an artist from Haïti, currently based in Massachussets. I specialize in abstract paintings.This website is still under constructions, more paintings will be uploaded and features may be added, so if you like what you see, you may want to bookmark this site and check again later!"]
  # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
      # proxy. The form makes a POST request to their servers to send the actual
@@ -57,7 +57,7 @@ googleAnalytics = ""
   #email         = "myriam.pitte@yahoo.com"
   #twitter       = "full profile url in twitter"
   #linkedin      = "full profile url in linkedin"
-  instagram     = "https://instagram.com/pitte.myriah"
+  instagram     = "https://instagram.com/pitte.myriam"
   #github        = "full profile url in github"
   #gitlab        = "full profile url in gitlab"
   #youtube       = "full profile url in youtube"
