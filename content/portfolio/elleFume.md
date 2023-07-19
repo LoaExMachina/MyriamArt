@@ -4,7 +4,7 @@ draft = false
 image = "portfolio/elleFume.jpg"
 date = "2023-07-17T17:45-05"
 title = "Elle Fume"
-
+weight = 0
 +++
-![Elle Fume](elleFume.jpg?=raw)
+![Elle Fume](https://loaexmachina.github.io/MyriamArt/portfolio/elleFume.jpg?raw=true)
 
