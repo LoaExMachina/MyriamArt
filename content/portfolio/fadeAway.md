@@ -6,5 +6,5 @@ date = "2023-07-17T17:45-05"
 title = "Fade Away"
 weight = 0
 +++
-![Fade Away](portfolio/fadeAway.jpg?raw=true)
+![Fade Away](https://www.myriampitte.art/img/portfolio/fadeAway.jpg?raw=true)
 

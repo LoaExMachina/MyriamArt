@@ -6,7 +6,7 @@ image = "portfolio/nu.jpg"
 showonlyimage = true
 weight = 1
 +++
-![Nu](portfolio/nu.jpg?raw=true)
+![Nu](https://www.myriampitte.art/img/portfolio/nu.jpg?raw=true)
 
 
 
