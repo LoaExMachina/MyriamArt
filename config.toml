@@ -39,6 +39,7 @@ googleAnalytics = ""
       #  hash = ""
 
   # Nav links in the side bar
+  
   [[params.navlinks]]
   name = "Home"
   url = "portfolio/"
@@ -51,7 +52,8 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "Get in touch"
   url = "contact/"
-
+  [params.meta]
+  favicon="false"
   [params.social]
  # facebook      = "full page or profile url in facebook"
   #email         = "myriam.pitte@yahoo.com"
