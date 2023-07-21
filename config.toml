@@ -19,7 +19,7 @@ googleAnalytics = ""
      # Since this template is static, the contact form uses www.formspree.io as a
      # proxy. The form makes a POST request to their servers to send the actual
      # email. Visitors can send up to a 1000 emails each month for free.
-     #
+     #<
      # What you need to do for the setup?
      #
      # - set your email address under 'email' below
@@ -27,14 +27,14 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  #email = "you@yoursite.com"
+  email = "contact@myriampitte.art"
 
     # Optional Matomo analytics (formerly piwik)
-      # [params.analytics.matomo]
-      #  URL = "https://stats.example.com"
+       [params.analytics.matomo]
+        URL = "https://stats.myriampitte.art"
       #  ID = "42"
       #  # Track all subdomains with "*.example.com" (Optional)
-      #  domain = "www.example.com"
+        domain = "www.myriampitte.art"
       #  # Optional integrity check hash
       #  hash = ""
 
@@ -54,7 +54,7 @@ googleAnalytics = ""
   url = "contact/"
   [params.social]
  # facebook      = "full page or profile url in facebook"
-  #email         = "myriam.pitte@yahoo.com"
+  email         = "myriamlpitte@gmail.com"
   #twitter       = "full profile url in twitter"
   #linkedin      = "full profile url in linkedin"
   instagram     = "https://instagram.com/pitte.myriam"
