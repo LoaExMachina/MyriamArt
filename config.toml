@@ -35,7 +35,7 @@ googleAnalytics = ""
    #     URL = "https://stats.myriampitte.art"
       #  ID = "42"
       #  # Track all subdomains with "*.example.com" (Optional)
-        domain = "www.myriampitte.art"
+        #domain = "www.myriampitte.art"
       #  # Optional integrity check hash
       #  hash = ""
 
