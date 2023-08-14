@@ -9,3 +9,6 @@ weight = 0
 ![Elle Fume](https://www.myriampitte.art/img/portfolio/elleFume.jpg?raw=true)
 
 
+40x30 in²  
+101.6x72,2 cm²
+
