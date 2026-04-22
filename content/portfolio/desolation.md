@@ -2,6 +2,7 @@
 showonlyimage = true
 draft = false
 image = "img/portfolio/desolation.jpg"
+date = "2024-01-05T17:45-05"
 title = "Desolation"
 weight = 0
 +++
