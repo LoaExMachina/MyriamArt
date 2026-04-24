@@ -6,5 +6,5 @@ image = "boatPeople.tif"
 title = "Boat People"
 weight = 0
 +++
-![boatPeople](https://www.myriampitte.art/img/portfolio/boatPeople.tif?raw=true)
+![boatPeople](https://github.com/LoaExMachina/MyriamArt/blob/master/static/img/portfolio/boatPeople.tif?raw=true)
 

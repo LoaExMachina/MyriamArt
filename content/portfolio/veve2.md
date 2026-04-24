@@ -5,5 +5,5 @@ image = "img/portfolio/theEye.jpg"
 title = "the Eye"
 weight = 0
 +++
-![Fade Away](https://www.myriampitte.art/img/portfolio/theEye.jpg?raw=true)
+![Fade Away](https://github.com/LoaExMachina/MyriamArt/blob/master/static/img/portfolio/theEye.jpg?raw=true)
 

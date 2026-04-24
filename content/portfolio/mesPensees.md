@@ -5,5 +5,5 @@ image = "img/portfolio/mesPensees.tif"
 title = "Mes Pensées"
 weight = 0
 +++
-![Mes Pensées](https://www.myriampitte.art/img/portfolio/mesPensees.tif?raw=true)
+![Mes Pensées](https://github.com/LoaExMachina/MyriamArt/blob/master/static/img/portfolio/mesPensees.tif?raw=true)
 

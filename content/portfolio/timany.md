@@ -5,5 +5,5 @@ image = "img/portfolio/timany.tif"
 title = "Timany"
 weight = 0
 +++
-![Timany](https://www.myriampitte.art/img/portfolio/timany.tif?raw=true)
+![Timany](https://github.com/LoaExMachina/MyriamArt/blob/master/static/img/portfolio/timany.tif?raw=true)
 
